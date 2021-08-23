@@ -1,0 +1,7 @@
+C:\Users\cris\source\repos\clase05\clase05\bin\Debug\clase05.exe.config
+C:\Users\cris\source\repos\clase05\clase05\bin\Debug\clase05.exe
+C:\Users\cris\source\repos\clase05\clase05\bin\Debug\clase05.pdb
+C:\Users\cris\source\repos\clase05\clase05\obj\Debug\clase05.csproj.AssemblyReference.cache
+C:\Users\cris\source\repos\clase05\clase05\obj\Debug\clase05.csproj.CoreCompileInputs.cache
+C:\Users\cris\source\repos\clase05\clase05\obj\Debug\clase05.exe
+C:\Users\cris\source\repos\clase05\clase05\obj\Debug\clase05.pdb
